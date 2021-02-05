@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "projecttemplate-31-main",
+			"path": "."
+		},
+		{
+			"name": "Walking Frame",
+			"path": "..\\Walking Frame"
+		},
+		{
+			"path": "..\\thunderbolt"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projecttemplate-31-main"
+	}
+}
